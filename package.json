@@ -1,7 +1,7 @@
 {
-    "name": "Queen Rias V2",
+    "name": "Queen-Rias-V2",
     "version": "2.0.0",
-    "description": "Whatsapp Bot By ToxxicBoy",
+    "description": "Whatsapp Bot By LORD TILONX",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -12,7 +12,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Toxxic1239",
+    "author": "LORD TILONX",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
