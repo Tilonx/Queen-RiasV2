@@ -13,7 +13,7 @@ global.ownername = 'LORD TILONX' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
+global.botname = 'TILONX PHEONYX' //ur bot name
 global.ownernumber = '233598275873' //ur owner number
 global.premium = ["233598275873"] // Premium User
 /*--------------------------------------------*/
@@ -36,10 +36,10 @@ global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
+global.BOT_NAME = "TILONX PHEONYX"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
-global.language = indonesia
+global.language = english
 global.lang = language //don't change
 
 /*--------------------------------------------*/
