@@ -13,7 +13,7 @@ global.ownername = 'LORD TILONX' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = 'TILONX PHEONYX' //ur bot name
+global.botname = "Queen Rias V2" //ur bot name
 global.ownernumber = '233598275873' //ur owner number
 global.premium = ["233598275873"] // Premium User
 /*--------------------------------------------*/
@@ -22,7 +22,7 @@ global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
+global.welcome = true //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = false //auto status/story view
 global.adminevent = false //show promote/demote message
@@ -36,7 +36,7 @@ global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "TILONX PHEONYX"   
+global.BOT_NAME = "Queen Rias V2"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
 global.language = english
